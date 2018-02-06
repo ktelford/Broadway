@@ -6,9 +6,39 @@
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
+
 }
 h1{
   font-size: 70px;
   font-weight: bold;
+  color: White;
+}
+a{
+  color: White;
+  font-size: 18px;
+}
+h3{
+  font-size: 23px;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+.newyork{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  font-weight: bold;
+  color: White;
+}
+.footer{
+  background-color: dimgray;
+  text-align: left;
+}
+h5{
+  text-align: left;
   color: White;
 }
